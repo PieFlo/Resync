@@ -1,3 +1,0 @@
-sushi --src HS.aac --dst VCB.flac --script 24.ass
-sushi --src ADN.aac --dst CR.aac --script FT.ass
-sushi --src src/1jojo.m4a --dst dst/1jojo --script sub/1jojo.ass
